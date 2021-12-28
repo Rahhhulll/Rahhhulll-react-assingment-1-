@@ -1,0 +1,45 @@
+.parent {
+    margin-top: -22px;
+    min-height: 100vh;
+    background: linear-gradient(aqua, hotpink, white);
+}
+
+.Classbox {
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: hotpink;
+    position: absolute;
+    width: 35%;
+    float: right;
+    right: 10%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.Functionbox {
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: aqua;
+    position: absolute;
+    width: 35%;
+    /* float: right; */
+    left: 10%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.button {
+    background-color: aqua;
+    border-radius: 15px;
+    border: 2px solid black;
+    margin-left: 23%;
+    margin-top: 2%;
+    width: 260px;
+    height: 50px;
+}
+
+.Header {
+    text-shadow: 5px 5px 5px red;
+    text-align: center;
+    padding: 2%;
+}
